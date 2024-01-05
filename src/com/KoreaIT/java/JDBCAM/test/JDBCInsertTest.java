@@ -7,6 +7,8 @@ import java.sql.SQLException;
 
 public class JDBCInsertTest {
 	public static void main(String[] args) {
+		
+		
 		Connection conn = null;
 		PreparedStatement pstmt = null;
 
